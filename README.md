@@ -1,7 +1,7 @@
 
 [![pnielly's 42 stats](https://badge42.vercel.app/api/v2/cl3if0ee2000609l3h7pptxi2/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F5DB18?style=for-the-badge&logo=javascript&logoColor=white)
