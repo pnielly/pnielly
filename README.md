@@ -1,7 +1,8 @@
-
-[![pnielly's 42 stats](https://badge42.vercel.app/api/v2/cl3if0ee2000609l3h7pptxi2/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
-
 <div align="center">
+
+<a href="">[![pnielly's 42 stats](https://badge42.vercel.app/api/v2/cl3if0ee2000609l3h7pptxi2/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)</a>
+
+
 ### 🛠 &nbsp;Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
